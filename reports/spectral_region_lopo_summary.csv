@@ -1,0 +1,23 @@
+﻿Dye,Positive_Samples,Evaluated_Holdouts,Omitted_Sample_ID,Matched_Reference_Regions,Reference_Regions,Region_Overlap_Fraction,Assessment,Mean_Region_Overlap,Median_Region_Overlap
+Orange 2,2,1,23,10.0,10,1.0,Exploratory; interpret with sample counts,,
+Orange 2,2,1,60,0.0,10,0.0,Exploratory; interpret with sample counts,,
+Orange 2,2,2,ALL_HOLDOUTS,,10,,Higher overlap means more stable region ranking; not proof of dye specificity,0.5,0.5
+Ponceau 4R,3,1,25,10.0,10,1.0,Exploratory; interpret with sample counts,,
+Ponceau 4R,3,1,32,9.0,10,0.9,Exploratory; interpret with sample counts,,
+Ponceau 4R,3,1,61,1.0,10,0.1,Exploratory; interpret with sample counts,,
+Ponceau 4R,3,3,ALL_HOLDOUTS,,10,,Higher overlap means more stable region ranking; not proof of dye specificity,0.6666666666666666,0.9
+Quinoline Yellow,4,1,22,10.0,10,1.0,Exploratory; interpret with sample counts,,
+Quinoline Yellow,4,1,26,10.0,10,1.0,Exploratory; interpret with sample counts,,
+Quinoline Yellow,4,1,31,9.0,10,0.9,Exploratory; interpret with sample counts,,
+Quinoline Yellow,4,1,59,9.0,10,0.9,Exploratory; interpret with sample counts,,
+Quinoline Yellow,4,4,ALL_HOLDOUTS,,10,,Higher overlap means more stable region ranking; not proof of dye specificity,0.95,0.95
+Tartrazine,9,1,21,10.0,10,1.0,Exploratory; interpret with sample counts,,
+Tartrazine,9,1,22,10.0,10,1.0,Exploratory; interpret with sample counts,,
+Tartrazine,9,1,23,10.0,10,1.0,Exploratory; interpret with sample counts,,
+Tartrazine,9,1,24,8.0,10,0.8,Exploratory; interpret with sample counts,,
+Tartrazine,9,1,25,10.0,10,1.0,Exploratory; interpret with sample counts,,
+Tartrazine,9,1,28,9.0,10,0.9,Exploratory; interpret with sample counts,,
+Tartrazine,9,1,29,9.0,10,0.9,Exploratory; interpret with sample counts,,
+Tartrazine,9,1,30,8.0,10,0.8,Exploratory; interpret with sample counts,,
+Tartrazine,9,1,57,8.0,10,0.8,Exploratory; interpret with sample counts,,
+Tartrazine,9,9,ALL_HOLDOUTS,,10,,Higher overlap means more stable region ranking; not proof of dye specificity,0.9111111111111112,0.9

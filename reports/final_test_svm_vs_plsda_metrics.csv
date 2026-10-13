@@ -1,0 +1,19 @@
+Model,Dye,Test_Positive_Count,Predicted_Positive_Count,Precision,Recall,F1,Average_Precision
+SVM,Amaranth,0,0,0.0,0.0,0.0,
+SVM,Azorubine,1,0,0.0,0.0,0.0,0.1111111111111111
+SVM,Erythrosine,0,3,0.0,0.0,0.0,
+SVM,Orange 2,4,0,0.0,0.0,0.0,0.6220238095238095
+SVM,Orange GGN,0,0,0.0,0.0,0.0,
+SVM,Ponceau 4R,0,0,0.0,0.0,0.0,
+SVM,Quinoline Yellow,2,0,0.0,0.0,0.0,0.22619047619047616
+SVM,Sunset Yellow,0,0,0.0,0.0,0.0,
+SVM,Tartrazine,6,0,0.0,0.0,0.0,0.6746031746031745
+PLS-DA,Amaranth,0,0,0.0,0.0,0.0,
+PLS-DA,Azorubine,1,0,0.0,0.0,0.0,0.14285714285714285
+PLS-DA,Erythrosine,0,3,0.0,0.0,0.0,
+PLS-DA,Orange 2,4,0,0.0,0.0,0.0,0.5527777777777778
+PLS-DA,Orange GGN,0,0,0.0,0.0,0.0,
+PLS-DA,Ponceau 4R,0,0,0.0,0.0,0.0,
+PLS-DA,Quinoline Yellow,2,1,0.0,0.0,0.0,0.1736111111111111
+PLS-DA,Sunset Yellow,0,0,0.0,0.0,0.0,
+PLS-DA,Tartrazine,6,1,1.0,0.16666666666666666,0.2857142857142857,0.810515873015873

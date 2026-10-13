@@ -1,6 +1,6 @@
 {
   "dataset": "I:\\Saffron Project\\Saffron-Adulteration-Intelligence\\data\\raw\\total-color-data.csv",
-  "rows": 64,
+  "rows": 63,
   "columns": 5199,
   "metadata_columns": [
     "Sample_ID",

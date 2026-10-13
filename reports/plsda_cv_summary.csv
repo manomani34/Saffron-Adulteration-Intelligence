@@ -1,0 +1,2 @@
+﻿Evaluated_Dyes,Mean_Precision,Mean_Recall,Mean_F1,Mean_Average_Precision,Decision_Threshold,PLS_Components,N_Splits,N_Repeats,Training_Samples,Spectral_Features
+9,0.24074074074074073,0.1919753086419753,0.20767195767195767,0.38784542939771693,0.5,2,2,20,43,5195

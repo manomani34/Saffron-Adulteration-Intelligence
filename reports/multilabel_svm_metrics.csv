@@ -1,0 +1,10 @@
+﻿Dye,Train_Positive,Train_Negative,Test_Positive,Test_Negative,Predicted_Positive,Precision,Recall,F1,Status
+Amaranth,2,41,0,9,0,,,,Not evaluable: test lacks positive or negative examples
+Azorubine,3,40,1,8,0,0.0,0.0,0.0,Evaluable with limited test data
+Erythrosine,5,38,0,9,3,,,,Not evaluable: test lacks positive or negative examples
+Orange 2,2,41,4,5,0,0.0,0.0,0.0,Evaluable with limited test data
+Orange GGN,4,39,0,9,0,,,,Not evaluable: test lacks positive or negative examples
+Ponceau 4R,3,40,0,9,0,,,,Not evaluable: test lacks positive or negative examples
+Quinoline Yellow,4,39,2,7,0,0.0,0.0,0.0,Evaluable with limited test data
+Sunset Yellow,3,40,0,9,0,,,,Not evaluable: test lacks positive or negative examples
+Tartrazine,9,34,6,3,0,0.0,0.0,0.0,Evaluable with limited test data

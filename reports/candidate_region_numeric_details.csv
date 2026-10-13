@@ -1,0 +1,517 @@
+﻿Dye_Analyzed,Region_Rank,Start_PPM,End_PPM,Sample_ID,Target_Label,Adulterant_Type,Is_Genuine,Is_Dye_Positive,Region_Mean_Intensity
+Orange 2,1,7.02387,7.03528,1,Genuine,,True,False,-0.031104992903225805
+Orange 2,1,7.02387,7.03528,2,Genuine,,True,False,0.08058933548387097
+Orange 2,1,7.02387,7.03528,3,Genuine,,True,False,0.13267758064516127
+Orange 2,1,7.02387,7.03528,4,Genuine,,True,False,0.07063387741935484
+Orange 2,1,7.02387,7.03528,5,Genuine,,True,False,0.11240681935483872
+Orange 2,1,7.02387,7.03528,6,Genuine,,True,False,0.060503193548387096
+Orange 2,1,7.02387,7.03528,7,Genuine,,True,False,-0.0053080522580645165
+Orange 2,1,7.02387,7.03528,8,Genuine,,True,False,0.05808493870967742
+Orange 2,1,7.02387,7.03528,9,Genuine,,True,False,0.12810635483870966
+Orange 2,1,7.02387,7.03528,10,Genuine,,True,False,0.1552447419354839
+Orange 2,1,7.02387,7.03528,11,Genuine,,True,False,0.0241673264516129
+Orange 2,1,7.02387,7.03528,12,Genuine,,True,False,0.05507881612903225
+Orange 2,1,7.02387,7.03528,13,Genuine,,True,False,-0.30847435483870966
+Orange 2,1,7.02387,7.03528,14,Genuine,,True,False,0.12144687096774191
+Orange 2,1,7.02387,7.03528,15,Genuine,,True,False,0.08622880967741935
+Orange 2,1,7.02387,7.03528,16,Genuine,,True,False,0.046284790322580656
+Orange 2,1,7.02387,7.03528,17,Genuine,,True,False,0.15677041935483874
+Orange 2,1,7.02387,7.03528,18,Genuine,,True,False,0.1441758064516129
+Orange 2,1,7.02387,7.03528,19,Genuine,,True,False,0.09976574838709676
+Orange 2,1,7.02387,7.03528,20,Genuine,,True,False,0.06100628064516128
+Orange 2,1,7.02387,7.03528,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,False,0.08635175161290322
+Orange 2,1,7.02387,7.03528,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,False,0.10136724516129034
+Orange 2,1,7.02387,7.03528,23,Adulterated,Saffron+Tartrazine+Orange 2,False,True,0.10897336129032259
+Orange 2,1,7.02387,7.03528,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,False,0.13973532258064517
+Orange 2,1,7.02387,7.03528,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,False,0.06696747419354838
+Orange 2,1,7.02387,7.03528,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,False,0.18072848387096777
+Orange 2,1,7.02387,7.03528,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.13554280967741936
+Orange 2,1,7.02387,7.03528,28,Adulterated,Saffron+Tartrazine+Amaranth,False,False,0.0411262893548387
+Orange 2,1,7.02387,7.03528,29,Adulterated,Saffron+Tartrazine+Azorubine,False,False,0.07893362258064515
+Orange 2,1,7.02387,7.03528,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,False,0.07398478387096775
+Orange 2,1,7.02387,7.03528,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,False,0.38282987096774196
+Orange 2,1,7.02387,7.03528,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,False,0.18587232258064507
+Orange 2,1,7.02387,7.03528,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,0.09112236774193548
+Orange 2,1,7.02387,7.03528,54,Adulterated,Saffron+Sunset Yellow,False,False,0.6519025161290324
+Orange 2,1,7.02387,7.03528,55,Adulterated,Saffron+Amaranth,False,False,-0.24582935483870968
+Orange 2,1,7.02387,7.03528,56,Adulterated,Saffron+Azorubine,False,False,0.4533936451612904
+Orange 2,1,7.02387,7.03528,57,Adulterated,Saffron+Tartrazine,False,False,0.14594309677419356
+Orange 2,1,7.02387,7.03528,58,Adulterated,Saffron+Orange GGN,False,False,0.7816178387096776
+Orange 2,1,7.02387,7.03528,59,Adulterated,Saffron+Quinoline Yellow,False,False,0.13460870967741936
+Orange 2,1,7.02387,7.03528,60,Adulterated,Saffron+Orange 2,False,True,5.352954838709676
+Orange 2,1,7.02387,7.03528,61,Adulterated,Saffron+Ponceau 4R,False,False,0.410268870967742
+Orange 2,1,7.02387,7.03528,62,Adulterated,Saffron+Erythrosine,False,False,1.0505362903225806
+Orange 2,1,7.02387,7.03528,64,Genuine,,True,False,0.1585880874193549
+Orange 2,2,7.03795,7.04936,1,Genuine,,True,False,-0.028940788387096777
+Orange 2,2,7.03795,7.04936,2,Genuine,,True,False,0.10895999677419355
+Orange 2,2,7.03795,7.04936,3,Genuine,,True,False,0.1466141935483871
+Orange 2,2,7.03795,7.04936,4,Genuine,,True,False,0.08429756774193549
+Orange 2,2,7.03795,7.04936,5,Genuine,,True,False,0.12443570967741938
+Orange 2,2,7.03795,7.04936,6,Genuine,,True,False,0.04739688709677419
+Orange 2,2,7.03795,7.04936,7,Genuine,,True,False,0.002834236225806451
+Orange 2,2,7.03795,7.04936,8,Genuine,,True,False,0.05966550322580646
+Orange 2,2,7.03795,7.04936,9,Genuine,,True,False,0.11528639032258066
+Orange 2,2,7.03795,7.04936,10,Genuine,,True,False,0.13444990322580644
+Orange 2,2,7.03795,7.04936,11,Genuine,,True,False,0.03018959999999999
+Orange 2,2,7.03795,7.04936,12,Genuine,,True,False,0.06483711612903227
+Orange 2,2,7.03795,7.04936,13,Genuine,,True,False,-0.3107312903225806
+Orange 2,2,7.03795,7.04936,14,Genuine,,True,False,0.10978380645161288
+Orange 2,2,7.03795,7.04936,15,Genuine,,True,False,0.09474219032258066
+Orange 2,2,7.03795,7.04936,16,Genuine,,True,False,0.04287783419354839
+Orange 2,2,7.03795,7.04936,17,Genuine,,True,False,0.1515684193548387
+Orange 2,2,7.03795,7.04936,18,Genuine,,True,False,0.1247214548387097
+Orange 2,2,7.03795,7.04936,19,Genuine,,True,False,0.10022352258064518
+Orange 2,2,7.03795,7.04936,20,Genuine,,True,False,0.0671410935483871
+Orange 2,2,7.03795,7.04936,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,False,0.07570077419354838
+Orange 2,2,7.03795,7.04936,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,False,0.15465941935483873
+Orange 2,2,7.03795,7.04936,23,Adulterated,Saffron+Tartrazine+Orange 2,False,True,0.15088490322580644
+Orange 2,2,7.03795,7.04936,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,False,0.13202622580645162
+Orange 2,2,7.03795,7.04936,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,False,0.06378929677419357
+Orange 2,2,7.03795,7.04936,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,False,0.23106358064516125
+Orange 2,2,7.03795,7.04936,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.1449981935483871
+Orange 2,2,7.03795,7.04936,28,Adulterated,Saffron+Tartrazine+Amaranth,False,False,0.04892784193548387
+Orange 2,2,7.03795,7.04936,29,Adulterated,Saffron+Tartrazine+Azorubine,False,False,0.1342102580645161
+Orange 2,2,7.03795,7.04936,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,False,0.059451006451612894
+Orange 2,2,7.03795,7.04936,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,False,0.48350880645161287
+Orange 2,2,7.03795,7.04936,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,False,0.1867199677419355
+Orange 2,2,7.03795,7.04936,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,0.10050068387096778
+Orange 2,2,7.03795,7.04936,54,Adulterated,Saffron+Sunset Yellow,False,False,0.8543698064516129
+Orange 2,2,7.03795,7.04936,55,Adulterated,Saffron+Amaranth,False,False,-0.26407467741935486
+Orange 2,2,7.03795,7.04936,56,Adulterated,Saffron+Azorubine,False,False,0.5424400645161291
+Orange 2,2,7.03795,7.04936,57,Adulterated,Saffron+Tartrazine,False,False,0.1474098064516129
+Orange 2,2,7.03795,7.04936,58,Adulterated,Saffron+Orange GGN,False,False,0.9115031612903227
+Orange 2,2,7.03795,7.04936,59,Adulterated,Saffron+Quinoline Yellow,False,False,0.14213009677419355
+Orange 2,2,7.03795,7.04936,60,Adulterated,Saffron+Orange 2,False,True,5.419426129032258
+Orange 2,2,7.03795,7.04936,61,Adulterated,Saffron+Ponceau 4R,False,False,0.41200790322580644
+Orange 2,2,7.03795,7.04936,62,Adulterated,Saffron+Erythrosine,False,False,1.1781267741935484
+Orange 2,2,7.03795,7.04936,64,Genuine,,True,False,0.18515508387096774
+Orange 2,3,7.01207,7.02349,1,Genuine,,True,False,-0.030346165483870955
+Orange 2,3,7.01207,7.02349,2,Genuine,,True,False,0.10565787741935483
+Orange 2,3,7.01207,7.02349,3,Genuine,,True,False,0.14288841935483873
+Orange 2,3,7.01207,7.02349,4,Genuine,,True,False,0.07300694193548386
+Orange 2,3,7.01207,7.02349,5,Genuine,,True,False,0.11924501612903225
+Orange 2,3,7.01207,7.02349,6,Genuine,,True,False,0.05876520322580646
+Orange 2,3,7.01207,7.02349,7,Genuine,,True,False,-0.007958594225806453
+Orange 2,3,7.01207,7.02349,8,Genuine,,True,False,0.06130487419354838
+Orange 2,3,7.01207,7.02349,9,Genuine,,True,False,0.13150583870967741
+Orange 2,3,7.01207,7.02349,10,Genuine,,True,False,0.1507904516129032
+Orange 2,3,7.01207,7.02349,11,Genuine,,True,False,0.02843812677419355
+Orange 2,3,7.01207,7.02349,12,Genuine,,True,False,0.02755796045161291
+Orange 2,3,7.01207,7.02349,13,Genuine,,True,False,-0.3104319032258064
+Orange 2,3,7.01207,7.02349,14,Genuine,,True,False,0.10031202903225807
+Orange 2,3,7.01207,7.02349,15,Genuine,,True,False,0.08841128709677419
+Orange 2,3,7.01207,7.02349,16,Genuine,,True,False,0.04324866451612903
+Orange 2,3,7.01207,7.02349,17,Genuine,,True,False,0.1621711935483871
+Orange 2,3,7.01207,7.02349,18,Genuine,,True,False,0.12309206129032259
+Orange 2,3,7.01207,7.02349,19,Genuine,,True,False,0.08775261290322577
+Orange 2,3,7.01207,7.02349,20,Genuine,,True,False,0.06380279032258064
+Orange 2,3,7.01207,7.02349,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,False,0.06569031612903226
+Orange 2,3,7.01207,7.02349,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,False,0.10443846774193548
+Orange 2,3,7.01207,7.02349,23,Adulterated,Saffron+Tartrazine+Orange 2,False,True,0.08710309999999997
+Orange 2,3,7.01207,7.02349,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,False,0.1275227387096774
+Orange 2,3,7.01207,7.02349,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,False,0.06621819354838711
+Orange 2,3,7.01207,7.02349,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,False,0.1792985806451613
+Orange 2,3,7.01207,7.02349,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.14001093548387097
+Orange 2,3,7.01207,7.02349,28,Adulterated,Saffron+Tartrazine+Amaranth,False,False,0.058202287096774184
+Orange 2,3,7.01207,7.02349,29,Adulterated,Saffron+Tartrazine+Azorubine,False,False,0.05218918387096775
+Orange 2,3,7.01207,7.02349,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,False,0.07160794838709676
+Orange 2,3,7.01207,7.02349,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,False,0.3033683870967742
+Orange 2,3,7.01207,7.02349,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,False,0.20977225806451616
+Orange 2,3,7.01207,7.02349,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,0.0691990548387097
+Orange 2,3,7.01207,7.02349,54,Adulterated,Saffron+Sunset Yellow,False,False,0.7127884193548385
+Orange 2,3,7.01207,7.02349,55,Adulterated,Saffron+Amaranth,False,False,-0.26221809677419355
+Orange 2,3,7.01207,7.02349,56,Adulterated,Saffron+Azorubine,False,False,0.3791868064516129
+Orange 2,3,7.01207,7.02349,57,Adulterated,Saffron+Tartrazine,False,False,0.13117745161290326
+Orange 2,3,7.01207,7.02349,58,Adulterated,Saffron+Orange GGN,False,False,0.7329348387096775
+Orange 2,3,7.01207,7.02349,59,Adulterated,Saffron+Quinoline Yellow,False,False,0.11467039032258063
+Orange 2,3,7.01207,7.02349,60,Adulterated,Saffron+Orange 2,False,True,4.684930967741934
+Orange 2,3,7.01207,7.02349,61,Adulterated,Saffron+Ponceau 4R,False,False,0.26499142516129026
+Orange 2,3,7.01207,7.02349,62,Adulterated,Saffron+Erythrosine,False,False,1.1581245161290326
+Orange 2,3,7.01207,7.02349,64,Genuine,,True,False,0.20747076709677417
+Ponceau 4R,1,6.74988,6.76129,1,Genuine,,True,False,-0.025327928064516128
+Ponceau 4R,1,6.74988,6.76129,2,Genuine,,True,False,0.12286822580645161
+Ponceau 4R,1,6.74988,6.76129,3,Genuine,,True,False,0.17128032258064513
+Ponceau 4R,1,6.74988,6.76129,4,Genuine,,True,False,0.0748724741935484
+Ponceau 4R,1,6.74988,6.76129,5,Genuine,,True,False,0.13743500000000003
+Ponceau 4R,1,6.74988,6.76129,6,Genuine,,True,False,0.0739183548387097
+Ponceau 4R,1,6.74988,6.76129,7,Genuine,,True,False,-0.0036870648064516115
+Ponceau 4R,1,6.74988,6.76129,8,Genuine,,True,False,0.06324176774193549
+Ponceau 4R,1,6.74988,6.76129,9,Genuine,,True,False,0.1308593548387097
+Ponceau 4R,1,6.74988,6.76129,10,Genuine,,True,False,0.16324074193548385
+Ponceau 4R,1,6.74988,6.76129,11,Genuine,,True,False,0.02987233258064516
+Ponceau 4R,1,6.74988,6.76129,12,Genuine,,True,False,0.041181797129032256
+Ponceau 4R,1,6.74988,6.76129,13,Genuine,,True,False,-0.3017679677419355
+Ponceau 4R,1,6.74988,6.76129,14,Genuine,,True,False,0.12759617096774195
+Ponceau 4R,1,6.74988,6.76129,15,Genuine,,True,False,0.10407249032258065
+Ponceau 4R,1,6.74988,6.76129,16,Genuine,,True,False,0.07024904516129032
+Ponceau 4R,1,6.74988,6.76129,17,Genuine,,True,False,0.17039035483870962
+Ponceau 4R,1,6.74988,6.76129,18,Genuine,,True,False,0.1513277741935484
+Ponceau 4R,1,6.74988,6.76129,19,Genuine,,True,False,0.12308819677419355
+Ponceau 4R,1,6.74988,6.76129,20,Genuine,,True,False,0.08512378387096774
+Ponceau 4R,1,6.74988,6.76129,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,False,0.1087597677419355
+Ponceau 4R,1,6.74988,6.76129,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,False,0.12788725806451615
+Ponceau 4R,1,6.74988,6.76129,23,Adulterated,Saffron+Tartrazine+Orange 2,False,False,0.15389832258064512
+Ponceau 4R,1,6.74988,6.76129,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,False,0.262057
+Ponceau 4R,1,6.74988,6.76129,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,True,0.1792028064516129
+Ponceau 4R,1,6.74988,6.76129,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,False,0.19875741935483868
+Ponceau 4R,1,6.74988,6.76129,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.1946977096774194
+Ponceau 4R,1,6.74988,6.76129,28,Adulterated,Saffron+Tartrazine+Amaranth,False,False,0.06955741612903225
+Ponceau 4R,1,6.74988,6.76129,29,Adulterated,Saffron+Tartrazine+Azorubine,False,False,0.12241312903225804
+Ponceau 4R,1,6.74988,6.76129,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,False,0.13541172258064518
+Ponceau 4R,1,6.74988,6.76129,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,False,0.23339696774193547
+Ponceau 4R,1,6.74988,6.76129,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,True,0.3756264516129033
+Ponceau 4R,1,6.74988,6.76129,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,0.12730756774193544
+Ponceau 4R,1,6.74988,6.76129,54,Adulterated,Saffron+Sunset Yellow,False,False,0.801264806451613
+Ponceau 4R,1,6.74988,6.76129,55,Adulterated,Saffron+Amaranth,False,False,-0.25924070967741936
+Ponceau 4R,1,6.74988,6.76129,56,Adulterated,Saffron+Azorubine,False,False,0.09391251612903226
+Ponceau 4R,1,6.74988,6.76129,57,Adulterated,Saffron+Tartrazine,False,False,0.23449293548387098
+Ponceau 4R,1,6.74988,6.76129,58,Adulterated,Saffron+Orange GGN,False,False,1.0385800967741934
+Ponceau 4R,1,6.74988,6.76129,59,Adulterated,Saffron+Quinoline Yellow,False,False,0.08628856451612903
+Ponceau 4R,1,6.74988,6.76129,60,Adulterated,Saffron+Orange 2,False,False,0.7162954193548388
+Ponceau 4R,1,6.74988,6.76129,61,Adulterated,Saffron+Ponceau 4R,False,True,1.7324764516129034
+Ponceau 4R,1,6.74988,6.76129,62,Adulterated,Saffron+Erythrosine,False,False,1.3615729032258062
+Ponceau 4R,1,6.74988,6.76129,64,Genuine,,True,False,0.5686869677419355
+Ponceau 4R,2,8.05513,8.06655,1,Genuine,,True,False,-0.13265203225806455
+Ponceau 4R,2,8.05513,8.06655,2,Genuine,,True,False,-0.02083999764516129
+Ponceau 4R,2,8.05513,8.06655,3,Genuine,,True,False,0.000710990451612904
+Ponceau 4R,2,8.05513,8.06655,4,Genuine,,True,False,-0.04344122903225806
+Ponceau 4R,2,8.05513,8.06655,5,Genuine,,True,False,0.012786877741935486
+Ponceau 4R,2,8.05513,8.06655,6,Genuine,,True,False,-0.016632748387096778
+Ponceau 4R,2,8.05513,8.06655,7,Genuine,,True,False,-0.10795514516129032
+Ponceau 4R,2,8.05513,8.06655,8,Genuine,,True,False,-0.08789544838709674
+Ponceau 4R,2,8.05513,8.06655,9,Genuine,,True,False,0.052285364516129015
+Ponceau 4R,2,8.05513,8.06655,10,Genuine,,True,False,0.06964149677419357
+Ponceau 4R,2,8.05513,8.06655,11,Genuine,,True,False,-0.07800064838709675
+Ponceau 4R,2,8.05513,8.06655,12,Genuine,,True,False,-0.04011918774193549
+Ponceau 4R,2,8.05513,8.06655,13,Genuine,,True,False,-0.3951165806451613
+Ponceau 4R,2,8.05513,8.06655,14,Genuine,,True,False,0.024832918290322588
+Ponceau 4R,2,8.05513,8.06655,15,Genuine,,True,False,-0.018200486129032255
+Ponceau 4R,2,8.05513,8.06655,16,Genuine,,True,False,-0.037020077419354834
+Ponceau 4R,2,8.05513,8.06655,17,Genuine,,True,False,0.06459071935483872
+Ponceau 4R,2,8.05513,8.06655,18,Genuine,,True,False,0.05782700967741935
+Ponceau 4R,2,8.05513,8.06655,19,Genuine,,True,False,0.05457784193548387
+Ponceau 4R,2,8.05513,8.06655,20,Genuine,,True,False,-0.0060464712903225805
+Ponceau 4R,2,8.05513,8.06655,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,False,-0.006726374677419355
+Ponceau 4R,2,8.05513,8.06655,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,False,0.17673890322580643
+Ponceau 4R,2,8.05513,8.06655,23,Adulterated,Saffron+Tartrazine+Orange 2,False,False,-0.03413204516129032
+Ponceau 4R,2,8.05513,8.06655,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,False,0.07961959354838709
+Ponceau 4R,2,8.05513,8.06655,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,True,0.009824485516129033
+Ponceau 4R,2,8.05513,8.06655,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,False,0.18552380645161284
+Ponceau 4R,2,8.05513,8.06655,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.022750611290322582
+Ponceau 4R,2,8.05513,8.06655,28,Adulterated,Saffron+Tartrazine+Amaranth,False,False,-0.009835184193548388
+Ponceau 4R,2,8.05513,8.06655,29,Adulterated,Saffron+Tartrazine+Azorubine,False,False,0.040992200000000006
+Ponceau 4R,2,8.05513,8.06655,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,False,0.016938610322580643
+Ponceau 4R,2,8.05513,8.06655,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,False,0.3482713870967743
+Ponceau 4R,2,8.05513,8.06655,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,True,0.21320570967741936
+Ponceau 4R,2,8.05513,8.06655,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,0.00044914312903225774
+Ponceau 4R,2,8.05513,8.06655,54,Adulterated,Saffron+Sunset Yellow,False,False,0.7308609032258064
+Ponceau 4R,2,8.05513,8.06655,55,Adulterated,Saffron+Amaranth,False,False,-0.2860170967741935
+Ponceau 4R,2,8.05513,8.06655,56,Adulterated,Saffron+Azorubine,False,False,0.15996877419354835
+Ponceau 4R,2,8.05513,8.06655,57,Adulterated,Saffron+Tartrazine,False,False,0.09555009354838709
+Ponceau 4R,2,8.05513,8.06655,58,Adulterated,Saffron+Orange GGN,False,False,0.27593700000000004
+Ponceau 4R,2,8.05513,8.06655,59,Adulterated,Saffron+Quinoline Yellow,False,False,0.2631407096774194
+Ponceau 4R,2,8.05513,8.06655,60,Adulterated,Saffron+Orange 2,False,False,-0.9666079032258065
+Ponceau 4R,2,8.05513,8.06655,61,Adulterated,Saffron+Ponceau 4R,False,True,1.2141807096774195
+Ponceau 4R,2,8.05513,8.06655,62,Adulterated,Saffron+Erythrosine,False,False,0.37510148387096764
+Ponceau 4R,2,8.05513,8.06655,64,Genuine,,True,False,-0.7534138064516127
+Ponceau 4R,3,6.77804,6.78945,1,Genuine,,True,False,-0.01206411693548387
+Ponceau 4R,3,6.77804,6.78945,2,Genuine,,True,False,0.17335670967741937
+Ponceau 4R,3,6.77804,6.78945,3,Genuine,,True,False,0.2347628064516129
+Ponceau 4R,3,6.77804,6.78945,4,Genuine,,True,False,0.12488233548387097
+Ponceau 4R,3,6.77804,6.78945,5,Genuine,,True,False,0.23010467741935478
+Ponceau 4R,3,6.77804,6.78945,6,Genuine,,True,False,0.10464149677419356
+Ponceau 4R,3,6.77804,6.78945,7,Genuine,,True,False,0.02714436193548387
+Ponceau 4R,3,6.77804,6.78945,8,Genuine,,True,False,0.07835847419354838
+Ponceau 4R,3,6.77804,6.78945,9,Genuine,,True,False,0.14933074193548387
+Ponceau 4R,3,6.77804,6.78945,10,Genuine,,True,False,0.16139680645161295
+Ponceau 4R,3,6.77804,6.78945,11,Genuine,,True,False,0.09213714193548386
+Ponceau 4R,3,6.77804,6.78945,12,Genuine,,True,False,0.06581130967741936
+Ponceau 4R,3,6.77804,6.78945,13,Genuine,,True,False,-0.24102416129032256
+Ponceau 4R,3,6.77804,6.78945,14,Genuine,,True,False,0.1255879483870968
+Ponceau 4R,3,6.77804,6.78945,15,Genuine,,True,False,0.11896340645161292
+Ponceau 4R,3,6.77804,6.78945,16,Genuine,,True,False,0.07594926774193546
+Ponceau 4R,3,6.77804,6.78945,17,Genuine,,True,False,0.17282651612903224
+Ponceau 4R,3,6.77804,6.78945,18,Genuine,,True,False,0.17226148387096776
+Ponceau 4R,3,6.77804,6.78945,19,Genuine,,True,False,0.13371187096774198
+Ponceau 4R,3,6.77804,6.78945,20,Genuine,,True,False,0.07058939677419354
+Ponceau 4R,3,6.77804,6.78945,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,False,0.14861541612903226
+Ponceau 4R,3,6.77804,6.78945,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,False,0.14078799999999997
+Ponceau 4R,3,6.77804,6.78945,23,Adulterated,Saffron+Tartrazine+Orange 2,False,False,0.141126935483871
+Ponceau 4R,3,6.77804,6.78945,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,False,0.24022658064516125
+Ponceau 4R,3,6.77804,6.78945,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,True,0.18654499999999996
+Ponceau 4R,3,6.77804,6.78945,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,False,0.20904761290322582
+Ponceau 4R,3,6.77804,6.78945,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.23724654838709675
+Ponceau 4R,3,6.77804,6.78945,28,Adulterated,Saffron+Tartrazine+Amaranth,False,False,0.05107946774193549
+Ponceau 4R,3,6.77804,6.78945,29,Adulterated,Saffron+Tartrazine+Azorubine,False,False,0.09503138387096775
+Ponceau 4R,3,6.77804,6.78945,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,False,0.09659948387096774
+Ponceau 4R,3,6.77804,6.78945,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,False,0.21167258064516126
+Ponceau 4R,3,6.77804,6.78945,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,True,0.3567266451612903
+Ponceau 4R,3,6.77804,6.78945,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,0.10322142258064516
+Ponceau 4R,3,6.77804,6.78945,54,Adulterated,Saffron+Sunset Yellow,False,False,0.820992451612903
+Ponceau 4R,3,6.77804,6.78945,55,Adulterated,Saffron+Amaranth,False,False,-0.24225667741935483
+Ponceau 4R,3,6.77804,6.78945,56,Adulterated,Saffron+Azorubine,False,False,0.11192696451612905
+Ponceau 4R,3,6.77804,6.78945,57,Adulterated,Saffron+Tartrazine,False,False,0.27107900000000007
+Ponceau 4R,3,6.77804,6.78945,58,Adulterated,Saffron+Orange GGN,False,False,0.9148805483870968
+Ponceau 4R,3,6.77804,6.78945,59,Adulterated,Saffron+Quinoline Yellow,False,False,0.11064131612903225
+Ponceau 4R,3,6.77804,6.78945,60,Adulterated,Saffron+Orange 2,False,False,0.7721948064516129
+Ponceau 4R,3,6.77804,6.78945,61,Adulterated,Saffron+Ponceau 4R,False,True,1.5596270967741932
+Ponceau 4R,3,6.77804,6.78945,62,Adulterated,Saffron+Erythrosine,False,False,1.3606667741935483
+Ponceau 4R,3,6.77804,6.78945,64,Genuine,,True,False,0.4184012612903224
+Quinoline Yellow,1,8.02659,8.03801,1,Genuine,,True,False,-0.12650265161290322
+Quinoline Yellow,1,8.02659,8.03801,2,Genuine,,True,False,0.005137745419354839
+Quinoline Yellow,1,8.02659,8.03801,3,Genuine,,True,False,0.026394824709677425
+Quinoline Yellow,1,8.02659,8.03801,4,Genuine,,True,False,-0.0367257170967742
+Quinoline Yellow,1,8.02659,8.03801,5,Genuine,,True,False,0.013462206225806454
+Quinoline Yellow,1,8.02659,8.03801,6,Genuine,,True,False,-0.007591678064516134
+Quinoline Yellow,1,8.02659,8.03801,7,Genuine,,True,False,-0.11563247096774193
+Quinoline Yellow,1,8.02659,8.03801,8,Genuine,,True,False,-0.04841085677419355
+Quinoline Yellow,1,8.02659,8.03801,9,Genuine,,True,False,0.041601283870967745
+Quinoline Yellow,1,8.02659,8.03801,10,Genuine,,True,False,0.059854632258064505
+Quinoline Yellow,1,8.02659,8.03801,11,Genuine,,True,False,-0.0658780806451613
+Quinoline Yellow,1,8.02659,8.03801,12,Genuine,,True,False,-0.03310534193548387
+Quinoline Yellow,1,8.02659,8.03801,13,Genuine,,True,False,-0.37871629032258075
+Quinoline Yellow,1,8.02659,8.03801,14,Genuine,,True,False,0.02038458929032258
+Quinoline Yellow,1,8.02659,8.03801,15,Genuine,,True,False,-0.02940056322580645
+Quinoline Yellow,1,8.02659,8.03801,16,Genuine,,True,False,-0.017645052483870962
+Quinoline Yellow,1,8.02659,8.03801,17,Genuine,,True,False,0.07571862580645164
+Quinoline Yellow,1,8.02659,8.03801,18,Genuine,,True,False,0.05002864806451613
+Quinoline Yellow,1,8.02659,8.03801,19,Genuine,,True,False,0.03737527841935484
+Quinoline Yellow,1,8.02659,8.03801,20,Genuine,,True,False,-0.006513938193548388
+Quinoline Yellow,1,8.02659,8.03801,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,False,-0.007104602516129031
+Quinoline Yellow,1,8.02659,8.03801,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,True,0.27494790322580637
+Quinoline Yellow,1,8.02659,8.03801,23,Adulterated,Saffron+Tartrazine+Orange 2,False,False,-0.020251800967741936
+Quinoline Yellow,1,8.02659,8.03801,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,False,0.09388888709677419
+Quinoline Yellow,1,8.02659,8.03801,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,False,0.008957772741935485
+Quinoline Yellow,1,8.02659,8.03801,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,True,0.28888529032258065
+Quinoline Yellow,1,8.02659,8.03801,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.03770783870967743
+Quinoline Yellow,1,8.02659,8.03801,28,Adulterated,Saffron+Tartrazine+Amaranth,False,False,0.08727267741935485
+Quinoline Yellow,1,8.02659,8.03801,29,Adulterated,Saffron+Tartrazine+Azorubine,False,False,-0.015107547096774195
+Quinoline Yellow,1,8.02659,8.03801,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,False,0.018316060967741937
+Quinoline Yellow,1,8.02659,8.03801,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,True,0.43484138709677417
+Quinoline Yellow,1,8.02659,8.03801,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,False,0.09866299032258065
+Quinoline Yellow,1,8.02659,8.03801,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,-0.006244265322580647
+Quinoline Yellow,1,8.02659,8.03801,54,Adulterated,Saffron+Sunset Yellow,False,False,0.43058583870967737
+Quinoline Yellow,1,8.02659,8.03801,55,Adulterated,Saffron+Amaranth,False,False,-0.14223203225806455
+Quinoline Yellow,1,8.02659,8.03801,56,Adulterated,Saffron+Azorubine,False,False,0.4068842903225806
+Quinoline Yellow,1,8.02659,8.03801,57,Adulterated,Saffron+Tartrazine,False,False,0.11491524193548384
+Quinoline Yellow,1,8.02659,8.03801,58,Adulterated,Saffron+Orange GGN,False,False,0.27116355161290323
+Quinoline Yellow,1,8.02659,8.03801,59,Adulterated,Saffron+Quinoline Yellow,False,True,0.18079358064516124
+Quinoline Yellow,1,8.02659,8.03801,60,Adulterated,Saffron+Orange 2,False,False,-0.8426327419354842
+Quinoline Yellow,1,8.02659,8.03801,61,Adulterated,Saffron+Ponceau 4R,False,False,-0.047040569354838725
+Quinoline Yellow,1,8.02659,8.03801,62,Adulterated,Saffron+Erythrosine,False,False,0.46869948387096766
+Quinoline Yellow,1,8.02659,8.03801,64,Genuine,,True,False,-0.442541935483871
+Quinoline Yellow,2,8.03839,8.0498,1,Genuine,,True,False,-0.13318252580645157
+Quinoline Yellow,2,8.03839,8.0498,2,Genuine,,True,False,-0.02318894764516129
+Quinoline Yellow,2,8.03839,8.0498,3,Genuine,,True,False,0.018720061870967745
+Quinoline Yellow,2,8.03839,8.0498,4,Genuine,,True,False,-0.032056554193548394
+Quinoline Yellow,2,8.03839,8.0498,5,Genuine,,True,False,0.005332413193548384
+Quinoline Yellow,2,8.03839,8.0498,6,Genuine,,True,False,-0.004515514
+Quinoline Yellow,2,8.03839,8.0498,7,Genuine,,True,False,-0.11296743870967745
+Quinoline Yellow,2,8.03839,8.0498,8,Genuine,,True,False,-0.054698174193548395
+Quinoline Yellow,2,8.03839,8.0498,9,Genuine,,True,False,0.06291361935483872
+Quinoline Yellow,2,8.03839,8.0498,10,Genuine,,True,False,0.07031796129032257
+Quinoline Yellow,2,8.03839,8.0498,11,Genuine,,True,False,-0.06785009032258063
+Quinoline Yellow,2,8.03839,8.0498,12,Genuine,,True,False,-0.042807896774193555
+Quinoline Yellow,2,8.03839,8.0498,13,Genuine,,True,False,-0.398629935483871
+Quinoline Yellow,2,8.03839,8.0498,14,Genuine,,True,False,0.0316628764516129
+Quinoline Yellow,2,8.03839,8.0498,15,Genuine,,True,False,-0.01247078035483871
+Quinoline Yellow,2,8.03839,8.0498,16,Genuine,,True,False,-0.0010876173225806457
+Quinoline Yellow,2,8.03839,8.0498,17,Genuine,,True,False,0.06310658387096776
+Quinoline Yellow,2,8.03839,8.0498,18,Genuine,,True,False,0.052643757419354835
+Quinoline Yellow,2,8.03839,8.0498,19,Genuine,,True,False,0.03268510322580644
+Quinoline Yellow,2,8.03839,8.0498,20,Genuine,,True,False,-0.0014633270967741934
+Quinoline Yellow,2,8.03839,8.0498,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,False,-0.00091711958064516
+Quinoline Yellow,2,8.03839,8.0498,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,True,0.30539032258064525
+Quinoline Yellow,2,8.03839,8.0498,23,Adulterated,Saffron+Tartrazine+Orange 2,False,False,-0.02275426129032258
+Quinoline Yellow,2,8.03839,8.0498,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,False,0.09274864838709677
+Quinoline Yellow,2,8.03839,8.0498,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,False,0.008846777903225807
+Quinoline Yellow,2,8.03839,8.0498,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,True,0.3159595483870968
+Quinoline Yellow,2,8.03839,8.0498,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.021699859354838712
+Quinoline Yellow,2,8.03839,8.0498,28,Adulterated,Saffron+Tartrazine+Amaranth,False,False,0.036246711677419365
+Quinoline Yellow,2,8.03839,8.0498,29,Adulterated,Saffron+Tartrazine+Azorubine,False,False,0.021944437096774193
+Quinoline Yellow,2,8.03839,8.0498,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,False,0.014706869709677422
+Quinoline Yellow,2,8.03839,8.0498,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,True,0.387227064516129
+Quinoline Yellow,2,8.03839,8.0498,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,False,0.12530139032258067
+Quinoline Yellow,2,8.03839,8.0498,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,-0.004978256612903226
+Quinoline Yellow,2,8.03839,8.0498,54,Adulterated,Saffron+Sunset Yellow,False,False,0.40816948387096785
+Quinoline Yellow,2,8.03839,8.0498,55,Adulterated,Saffron+Amaranth,False,False,-0.24931006451612908
+Quinoline Yellow,2,8.03839,8.0498,56,Adulterated,Saffron+Azorubine,False,False,0.27494254838709686
+Quinoline Yellow,2,8.03839,8.0498,57,Adulterated,Saffron+Tartrazine,False,False,0.09856505806451611
+Quinoline Yellow,2,8.03839,8.0498,58,Adulterated,Saffron+Orange GGN,False,False,0.3635763225806451
+Quinoline Yellow,2,8.03839,8.0498,59,Adulterated,Saffron+Quinoline Yellow,False,True,0.1868456451612903
+Quinoline Yellow,2,8.03839,8.0498,60,Adulterated,Saffron+Orange 2,False,False,-0.942340677419355
+Quinoline Yellow,2,8.03839,8.0498,61,Adulterated,Saffron+Ponceau 4R,False,False,0.41620593999999994
+Quinoline Yellow,2,8.03839,8.0498,62,Adulterated,Saffron+Erythrosine,False,False,0.45659377419354835
+Quinoline Yellow,2,8.03839,8.0498,64,Genuine,,True,False,-0.6020310322580645
+Quinoline Yellow,3,8.01479,8.02621,1,Genuine,,True,False,-0.13388706451612906
+Quinoline Yellow,3,8.01479,8.02621,2,Genuine,,True,False,0.004144109161290321
+Quinoline Yellow,3,8.01479,8.02621,3,Genuine,,True,False,0.038802483870967734
+Quinoline Yellow,3,8.01479,8.02621,4,Genuine,,True,False,-0.001155262903225808
+Quinoline Yellow,3,8.01479,8.02621,5,Genuine,,True,False,0.01795409322580645
+Quinoline Yellow,3,8.01479,8.02621,6,Genuine,,True,False,-0.004363240967741936
+Quinoline Yellow,3,8.01479,8.02621,7,Genuine,,True,False,-0.10330762580645161
+Quinoline Yellow,3,8.01479,8.02621,8,Genuine,,True,False,-0.04369494193548387
+Quinoline Yellow,3,8.01479,8.02621,9,Genuine,,True,False,0.0691648806451613
+Quinoline Yellow,3,8.01479,8.02621,10,Genuine,,True,False,0.08762538709677418
+Quinoline Yellow,3,8.01479,8.02621,11,Genuine,,True,False,-0.06556023548387098
+Quinoline Yellow,3,8.01479,8.02621,12,Genuine,,True,False,-0.03311886645161291
+Quinoline Yellow,3,8.01479,8.02621,13,Genuine,,True,False,-0.4011765483870968
+Quinoline Yellow,3,8.01479,8.02621,14,Genuine,,True,False,0.028388734516129027
+Quinoline Yellow,3,8.01479,8.02621,15,Genuine,,True,False,-0.024308099999999992
+Quinoline Yellow,3,8.01479,8.02621,16,Genuine,,True,False,-0.018718154096774197
+Quinoline Yellow,3,8.01479,8.02621,17,Genuine,,True,False,0.07907784516129032
+Quinoline Yellow,3,8.01479,8.02621,18,Genuine,,True,False,0.03796927741935483
+Quinoline Yellow,3,8.01479,8.02621,19,Genuine,,True,False,0.05898227419354838
+Quinoline Yellow,3,8.01479,8.02621,20,Genuine,,True,False,0.02342827119354839
+Quinoline Yellow,3,8.01479,8.02621,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,False,0.0013685900967741935
+Quinoline Yellow,3,8.01479,8.02621,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,True,0.21013222580645163
+Quinoline Yellow,3,8.01479,8.02621,23,Adulterated,Saffron+Tartrazine+Orange 2,False,False,-0.016229680322580643
+Quinoline Yellow,3,8.01479,8.02621,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,False,0.08563640967741935
+Quinoline Yellow,3,8.01479,8.02621,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,False,0.02085243387096774
+Quinoline Yellow,3,8.01479,8.02621,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,True,0.21348516129032258
+Quinoline Yellow,3,8.01479,8.02621,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.04862361322580646
+Quinoline Yellow,3,8.01479,8.02621,28,Adulterated,Saffron+Tartrazine+Amaranth,False,False,0.12750358387096777
+Quinoline Yellow,3,8.01479,8.02621,29,Adulterated,Saffron+Tartrazine+Azorubine,False,False,-0.04013897096774194
+Quinoline Yellow,3,8.01479,8.02621,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,False,0.005852952870967743
+Quinoline Yellow,3,8.01479,8.02621,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,True,0.4128471612903226
+Quinoline Yellow,3,8.01479,8.02621,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,False,0.07792801612903223
+Quinoline Yellow,3,8.01479,8.02621,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,-0.014569784516129032
+Quinoline Yellow,3,8.01479,8.02621,54,Adulterated,Saffron+Sunset Yellow,False,False,0.24641676774193555
+Quinoline Yellow,3,8.01479,8.02621,55,Adulterated,Saffron+Amaranth,False,False,-0.08577866451612903
+Quinoline Yellow,3,8.01479,8.02621,56,Adulterated,Saffron+Azorubine,False,False,0.5558356451612904
+Quinoline Yellow,3,8.01479,8.02621,57,Adulterated,Saffron+Tartrazine,False,False,0.12219398064516128
+Quinoline Yellow,3,8.01479,8.02621,58,Adulterated,Saffron+Orange GGN,False,False,0.3043752258064516
+Quinoline Yellow,3,8.01479,8.02621,59,Adulterated,Saffron+Quinoline Yellow,False,True,0.15112677419354834
+Quinoline Yellow,3,8.01479,8.02621,60,Adulterated,Saffron+Orange 2,False,False,-0.9490556451612906
+Quinoline Yellow,3,8.01479,8.02621,61,Adulterated,Saffron+Ponceau 4R,False,False,-0.10166485129032256
+Quinoline Yellow,3,8.01479,8.02621,62,Adulterated,Saffron+Erythrosine,False,False,0.6028120645161291
+Quinoline Yellow,3,8.01479,8.02621,64,Genuine,,True,False,-0.3484092387096774
+Tartrazine,1,7.91928,7.93069,1,Genuine,,True,False,-0.08808900322580644
+Tartrazine,1,7.91928,7.93069,2,Genuine,,True,False,0.034631681612903226
+Tartrazine,1,7.91928,7.93069,3,Genuine,,True,False,0.08162015806451614
+Tartrazine,1,7.91928,7.93069,4,Genuine,,True,False,0.055220341935483856
+Tartrazine,1,7.91928,7.93069,5,Genuine,,True,False,0.09060292903225806
+Tartrazine,1,7.91928,7.93069,6,Genuine,,True,False,0.04703116451612903
+Tartrazine,1,7.91928,7.93069,7,Genuine,,True,False,-0.053560564516129026
+Tartrazine,1,7.91928,7.93069,8,Genuine,,True,False,0.002542942903225806
+Tartrazine,1,7.91928,7.93069,9,Genuine,,True,False,0.13875212903225803
+Tartrazine,1,7.91928,7.93069,10,Genuine,,True,False,0.14363909677419354
+Tartrazine,1,7.91928,7.93069,11,Genuine,,True,False,-0.007580251290322582
+Tartrazine,1,7.91928,7.93069,12,Genuine,,True,False,0.009421444096774194
+Tartrazine,1,7.91928,7.93069,13,Genuine,,True,False,-0.346274129032258
+Tartrazine,1,7.91928,7.93069,14,Genuine,,True,False,0.10311210000000004
+Tartrazine,1,7.91928,7.93069,15,Genuine,,True,False,0.03724762258064515
+Tartrazine,1,7.91928,7.93069,16,Genuine,,True,False,0.05076550967741936
+Tartrazine,1,7.91928,7.93069,17,Genuine,,True,False,0.1421385806451613
+Tartrazine,1,7.91928,7.93069,18,Genuine,,True,False,0.11131984193548387
+Tartrazine,1,7.91928,7.93069,19,Genuine,,True,False,0.11752248064516128
+Tartrazine,1,7.91928,7.93069,20,Genuine,,True,False,0.07004480967741936
+Tartrazine,1,7.91928,7.93069,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,True,0.2419457419354839
+Tartrazine,1,7.91928,7.93069,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,True,0.36324532258064524
+Tartrazine,1,7.91928,7.93069,23,Adulterated,Saffron+Tartrazine+Orange 2,False,True,0.3397678387096775
+Tartrazine,1,7.91928,7.93069,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,True,0.4322287096774193
+Tartrazine,1,7.91928,7.93069,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,True,0.37573090322580643
+Tartrazine,1,7.91928,7.93069,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,False,0.20978483870967743
+Tartrazine,1,7.91928,7.93069,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.1300325806451613
+Tartrazine,1,7.91928,7.93069,28,Adulterated,Saffron+Tartrazine+Amaranth,False,True,0.3777763225806451
+Tartrazine,1,7.91928,7.93069,29,Adulterated,Saffron+Tartrazine+Azorubine,False,True,0.21670651612903227
+Tartrazine,1,7.91928,7.93069,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,True,0.259782064516129
+Tartrazine,1,7.91928,7.93069,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,False,0.2624807419354838
+Tartrazine,1,7.91928,7.93069,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,False,0.17895238709677413
+Tartrazine,1,7.91928,7.93069,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,0.1262649838709677
+Tartrazine,1,7.91928,7.93069,54,Adulterated,Saffron+Sunset Yellow,False,False,0.44304277419354837
+Tartrazine,1,7.91928,7.93069,55,Adulterated,Saffron+Amaranth,False,False,-0.007736550064516129
+Tartrazine,1,7.91928,7.93069,56,Adulterated,Saffron+Azorubine,False,False,0.04554959677419354
+Tartrazine,1,7.91928,7.93069,57,Adulterated,Saffron+Tartrazine,False,True,0.7280459999999997
+Tartrazine,1,7.91928,7.93069,58,Adulterated,Saffron+Orange GGN,False,False,1.29325064516129
+Tartrazine,1,7.91928,7.93069,59,Adulterated,Saffron+Quinoline Yellow,False,False,0.34743722580645175
+Tartrazine,1,7.91928,7.93069,60,Adulterated,Saffron+Orange 2,False,False,-0.5447642903225806
+Tartrazine,1,7.91928,7.93069,61,Adulterated,Saffron+Ponceau 4R,False,False,0.2670804193548387
+Tartrazine,1,7.91928,7.93069,62,Adulterated,Saffron+Erythrosine,False,False,0.9810392258064515
+Tartrazine,1,7.91928,7.93069,64,Genuine,,True,False,0.19878436838709673
+Tartrazine,2,7.81311,7.82452,1,Genuine,,True,False,-0.08241933548387097
+Tartrazine,2,7.81311,7.82452,2,Genuine,,True,False,0.06445022903225807
+Tartrazine,2,7.81311,7.82452,3,Genuine,,True,False,0.09054631290322579
+Tartrazine,2,7.81311,7.82452,4,Genuine,,True,False,0.0393518064516129
+Tartrazine,2,7.81311,7.82452,5,Genuine,,True,False,0.08776073870967742
+Tartrazine,2,7.81311,7.82452,6,Genuine,,True,False,0.056377412903225795
+Tartrazine,2,7.81311,7.82452,7,Genuine,,True,False,-0.025177023870967742
+Tartrazine,2,7.81311,7.82452,8,Genuine,,True,False,0.02626798129032258
+Tartrazine,2,7.81311,7.82452,9,Genuine,,True,False,0.10597104838709677
+Tartrazine,2,7.81311,7.82452,10,Genuine,,True,False,0.12982148387096776
+Tartrazine,2,7.81311,7.82452,11,Genuine,,True,False,-0.002288108612903226
+Tartrazine,2,7.81311,7.82452,12,Genuine,,True,False,0.029509424258064517
+Tartrazine,2,7.81311,7.82452,13,Genuine,,True,False,-0.32098348387096776
+Tartrazine,2,7.81311,7.82452,14,Genuine,,True,False,0.09773245806451612
+Tartrazine,2,7.81311,7.82452,15,Genuine,,True,False,0.05581670322580646
+Tartrazine,2,7.81311,7.82452,16,Genuine,,True,False,0.03867228709677419
+Tartrazine,2,7.81311,7.82452,17,Genuine,,True,False,0.1495135806451613
+Tartrazine,2,7.81311,7.82452,18,Genuine,,True,False,0.11713283870967742
+Tartrazine,2,7.81311,7.82452,19,Genuine,,True,False,0.11635473225806453
+Tartrazine,2,7.81311,7.82452,20,Genuine,,True,False,0.07360048387096774
+Tartrazine,2,7.81311,7.82452,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,True,0.2313211612903226
+Tartrazine,2,7.81311,7.82452,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,True,0.535274
+Tartrazine,2,7.81311,7.82452,23,Adulterated,Saffron+Tartrazine+Orange 2,False,True,0.6219256129032258
+Tartrazine,2,7.81311,7.82452,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,True,0.7877035483870969
+Tartrazine,2,7.81311,7.82452,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,True,0.537664741935484
+Tartrazine,2,7.81311,7.82452,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,False,0.2960989999999999
+Tartrazine,2,7.81311,7.82452,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.3085683225806452
+Tartrazine,2,7.81311,7.82452,28,Adulterated,Saffron+Tartrazine+Amaranth,False,True,0.3972837096774193
+Tartrazine,2,7.81311,7.82452,29,Adulterated,Saffron+Tartrazine+Azorubine,False,True,0.6405666129032258
+Tartrazine,2,7.81311,7.82452,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,True,1.0926887096774194
+Tartrazine,2,7.81311,7.82452,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,False,0.3062163870967741
+Tartrazine,2,7.81311,7.82452,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,False,0.29575258064516124
+Tartrazine,2,7.81311,7.82452,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,0.43549112903225806
+Tartrazine,2,7.81311,7.82452,54,Adulterated,Saffron+Sunset Yellow,False,False,1.5723638709677423
+Tartrazine,2,7.81311,7.82452,55,Adulterated,Saffron+Amaranth,False,False,-0.2859307741935484
+Tartrazine,2,7.81311,7.82452,56,Adulterated,Saffron+Azorubine,False,False,0.14645349354838713
+Tartrazine,2,7.81311,7.82452,57,Adulterated,Saffron+Tartrazine,False,True,0.7682267096774192
+Tartrazine,2,7.81311,7.82452,58,Adulterated,Saffron+Orange GGN,False,False,2.3283329032258058
+Tartrazine,2,7.81311,7.82452,59,Adulterated,Saffron+Quinoline Yellow,False,False,0.18409677419354842
+Tartrazine,2,7.81311,7.82452,60,Adulterated,Saffron+Orange 2,False,False,1.0180628064516126
+Tartrazine,2,7.81311,7.82452,61,Adulterated,Saffron+Ponceau 4R,False,False,0.2495453193548387
+Tartrazine,2,7.81311,7.82452,62,Adulterated,Saffron+Erythrosine,False,False,0.8593109677419357
+Tartrazine,2,7.81311,7.82452,64,Genuine,,True,False,0.03602753064516128
+Tartrazine,3,7.20653,7.21794,1,Genuine,,True,False,0.7855390322580647
+Tartrazine,3,7.20653,7.21794,2,Genuine,,True,False,1.1200487096774194
+Tartrazine,3,7.20653,7.21794,3,Genuine,,True,False,0.9117552903225806
+Tartrazine,3,7.20653,7.21794,4,Genuine,,True,False,1.1771574193548386
+Tartrazine,3,7.20653,7.21794,5,Genuine,,True,False,1.3845535483870968
+Tartrazine,3,7.20653,7.21794,6,Genuine,,True,False,0.6010262903225807
+Tartrazine,3,7.20653,7.21794,7,Genuine,,True,False,0.4765439354838711
+Tartrazine,3,7.20653,7.21794,8,Genuine,,True,False,0.6939104193548387
+Tartrazine,3,7.20653,7.21794,9,Genuine,,True,False,0.9237261290322581
+Tartrazine,3,7.20653,7.21794,10,Genuine,,True,False,0.9731556129032258
+Tartrazine,3,7.20653,7.21794,11,Genuine,,True,False,0.6287979032258063
+Tartrazine,3,7.20653,7.21794,12,Genuine,,True,False,0.6063436451612904
+Tartrazine,3,7.20653,7.21794,13,Genuine,,True,False,0.27192058064516134
+Tartrazine,3,7.20653,7.21794,14,Genuine,,True,False,0.589477935483871
+Tartrazine,3,7.20653,7.21794,15,Genuine,,True,False,0.6941167096774195
+Tartrazine,3,7.20653,7.21794,16,Genuine,,True,False,0.8640177419354838
+Tartrazine,3,7.20653,7.21794,17,Genuine,,True,False,0.820924870967742
+Tartrazine,3,7.20653,7.21794,18,Genuine,,True,False,0.767115935483871
+Tartrazine,3,7.20653,7.21794,19,Genuine,,True,False,0.8353242258064519
+Tartrazine,3,7.20653,7.21794,20,Genuine,,True,False,0.47663874193548383
+Tartrazine,3,7.20653,7.21794,21,Adulterated,Saffron+Erythrosine+Tartrazine,False,True,0.5251026129032258
+Tartrazine,3,7.20653,7.21794,22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,False,True,0.4022472580645161
+Tartrazine,3,7.20653,7.21794,23,Adulterated,Saffron+Tartrazine+Orange 2,False,True,0.3392232903225806
+Tartrazine,3,7.20653,7.21794,24,Adulterated,Saffron+Tartrazine+Orange GGN,False,True,0.5582545161290322
+Tartrazine,3,7.20653,7.21794,25,Adulterated,Saffron+Tartrazine+Ponceau 4R,False,True,0.428456129032258
+Tartrazine,3,7.20653,7.21794,26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,False,False,0.45890516129032255
+Tartrazine,3,7.20653,7.21794,27,Adulterated,Saffron+Erythrosine+Orange GGN,False,False,0.5242197096774193
+Tartrazine,3,7.20653,7.21794,28,Adulterated,Saffron+Tartrazine+Amaranth,False,True,0.3980825483870967
+Tartrazine,3,7.20653,7.21794,29,Adulterated,Saffron+Tartrazine+Azorubine,False,True,0.19162183870967747
+Tartrazine,3,7.20653,7.21794,30,Adulterated,Saffron+Tartrazine+Sunset Yellow,False,True,0.5097881612903226
+Tartrazine,3,7.20653,7.21794,31,Adulterated,Saffron+Azorubine+Quinoline Yellow,False,False,0.3911606451612904
+Tartrazine,3,7.20653,7.21794,32,Adulterated,Saffron+Erythrosine+Ponceau 4R,False,False,0.6837843870967742
+Tartrazine,3,7.20653,7.21794,33,Adulterated,Saffron+Sunset Yellow+Orange GGN,False,False,0.34390570967741935
+Tartrazine,3,7.20653,7.21794,54,Adulterated,Saffron+Sunset Yellow,False,False,2.3138570967741936
+Tartrazine,3,7.20653,7.21794,55,Adulterated,Saffron+Amaranth,False,False,-0.04606862258064516
+Tartrazine,3,7.20653,7.21794,56,Adulterated,Saffron+Azorubine,False,False,0.4023436774193548
+Tartrazine,3,7.20653,7.21794,57,Adulterated,Saffron+Tartrazine,False,True,0.5922227419354839
+Tartrazine,3,7.20653,7.21794,58,Adulterated,Saffron+Orange GGN,False,False,2.301423548387097
+Tartrazine,3,7.20653,7.21794,59,Adulterated,Saffron+Quinoline Yellow,False,False,0.3275927419354839
+Tartrazine,3,7.20653,7.21794,60,Adulterated,Saffron+Orange 2,False,False,4.592122903225807
+Tartrazine,3,7.20653,7.21794,61,Adulterated,Saffron+Ponceau 4R,False,False,1.5503380645161295
+Tartrazine,3,7.20653,7.21794,62,Adulterated,Saffron+Erythrosine,False,False,3.324235483870968
+Tartrazine,3,7.20653,7.21794,64,Genuine,,True,False,4.917666774193549

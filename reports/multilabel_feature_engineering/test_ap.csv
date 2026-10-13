@@ -1,0 +1,37 @@
+Dye,Model,Features,Train_Positive_Count,Test_Positive_Count,Test_AP,Threshold,Test_Predicted_Positive_Count
+Amaranth,SVM,Raw,2,0,,0.0,0
+Amaranth,SVM,Engineered_FS,2,0,,0.0,0
+Amaranth,PLS,Raw,2,0,,0.5,0
+Amaranth,PLS,Engineered_FS,2,0,,0.5,0
+Azorubine,SVM,Raw,3,1,0.1111111111111111,0.0,0
+Azorubine,SVM,Engineered_FS,3,1,0.1111111111111111,0.0,0
+Azorubine,PLS,Raw,3,1,0.14285714285714285,0.5,0
+Azorubine,PLS,Engineered_FS,3,1,0.25,0.5,0
+Erythrosine,SVM,Raw,5,0,,0.0,3
+Erythrosine,SVM,Engineered_FS,5,0,,0.0,7
+Erythrosine,PLS,Raw,5,0,,0.5,3
+Erythrosine,PLS,Engineered_FS,5,0,,0.5,1
+Orange 2,SVM,Raw,2,4,0.6220238095238095,0.0,0
+Orange 2,SVM,Engineered_FS,2,4,0.8541666666666666,0.0,2
+Orange 2,PLS,Raw,2,4,0.5527777777777778,0.5,0
+Orange 2,PLS,Engineered_FS,2,4,0.7678571428571428,0.5,0
+Orange GGN,SVM,Raw,4,0,,0.0,0
+Orange GGN,SVM,Engineered_FS,4,0,,0.0,5
+Orange GGN,PLS,Raw,4,0,,0.5,0
+Orange GGN,PLS,Engineered_FS,4,0,,0.5,0
+Ponceau 4R,SVM,Raw,3,0,,0.0,0
+Ponceau 4R,SVM,Engineered_FS,3,0,,0.0,5
+Ponceau 4R,PLS,Raw,3,0,,0.5,0
+Ponceau 4R,PLS,Engineered_FS,3,0,,0.5,0
+Quinoline Yellow,SVM,Raw,4,2,0.22619047619047616,0.0,0
+Quinoline Yellow,SVM,Engineered_FS,4,2,0.20833333333333331,0.0,2
+Quinoline Yellow,PLS,Raw,4,2,0.1736111111111111,0.5,1
+Quinoline Yellow,PLS,Engineered_FS,4,2,0.1736111111111111,0.5,0
+Sunset Yellow,SVM,Raw,3,0,,0.0,0
+Sunset Yellow,SVM,Engineered_FS,3,0,,0.0,5
+Sunset Yellow,PLS,Raw,3,0,,0.5,0
+Sunset Yellow,PLS,Engineered_FS,3,0,,0.5,0
+Tartrazine,SVM,Raw,9,6,0.6746031746031745,0.0,0
+Tartrazine,SVM,Engineered_FS,9,6,0.8416666666666666,0.0,5
+Tartrazine,PLS,Raw,9,6,0.810515873015873,0.5,1
+Tartrazine,PLS,Engineered_FS,9,6,0.8972222222222223,0.5,4

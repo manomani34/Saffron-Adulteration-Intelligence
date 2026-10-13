@@ -61,9 +61,8 @@ Sample_ID,59,1
 Sample_ID,60,1
 Sample_ID,61,1
 Sample_ID,62,1
-Sample_ID,63,1
 Sample_ID,64,1
-Target_Label,Adulterated,33
+Target_Label,Adulterated,32
 Target_Label,Genuine,22
 Target_Label,Sunset Yellow,1
 Target_Label,Orange 2,1
@@ -79,7 +78,6 @@ Adulterant_Type,Saffron+Tartrazine,5
 Adulterant_Type,Unknown,2
 Adulterant_Type,Saffron+Orange 2,2
 Adulterant_Type,Saffron+Tartrazine+Quinoline Yellow+Orange 2,2
-Adulterant_Type,Saffron+Orange GGN,2
 Adulterant_Type,Saffron+Erythrosine+Tartrazine,1
 Adulterant_Type,Saffron+Tartrazine+Quinoline Yellow,1
 Adulterant_Type,Saffron+Tartrazine+Orange 2,1
@@ -97,9 +95,10 @@ Adulterant_Type,Saffron+Orange 2+Azorubine,1
 Adulterant_Type,Saffron+Sunset Yellow,1
 Adulterant_Type,Saffron+Amaranth,1
 Adulterant_Type,Saffron+Azorubine,1
+Adulterant_Type,Saffron+Orange GGN,1
 Adulterant_Type,Saffron+Quinoline Yellow,1
 Adulterant_Type,Saffron+Ponceau 4R,1
 Adulterant_Type,Saffron+Erythrosine,1
-Dataset_Role,Train,44
+Dataset_Role,Train,43
 Dataset_Role,Test,11
 Dataset_Role,Reference,9
