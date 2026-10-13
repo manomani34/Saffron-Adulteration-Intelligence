@@ -1,0 +1,105 @@
+﻿column,value,count
+Sample_ID,1,1
+Sample_ID,2,1
+Sample_ID,3,1
+Sample_ID,4,1
+Sample_ID,5,1
+Sample_ID,6,1
+Sample_ID,7,1
+Sample_ID,8,1
+Sample_ID,9,1
+Sample_ID,10,1
+Sample_ID,11,1
+Sample_ID,12,1
+Sample_ID,13,1
+Sample_ID,14,1
+Sample_ID,15,1
+Sample_ID,16,1
+Sample_ID,17,1
+Sample_ID,18,1
+Sample_ID,19,1
+Sample_ID,20,1
+Sample_ID,21,1
+Sample_ID,22,1
+Sample_ID,23,1
+Sample_ID,24,1
+Sample_ID,25,1
+Sample_ID,26,1
+Sample_ID,27,1
+Sample_ID,28,1
+Sample_ID,29,1
+Sample_ID,30,1
+Sample_ID,31,1
+Sample_ID,32,1
+Sample_ID,33,1
+Sample_ID,34,1
+Sample_ID,35,1
+Sample_ID,36,1
+Sample_ID,37,1
+Sample_ID,38,1
+Sample_ID,39,1
+Sample_ID,40,1
+Sample_ID,41,1
+Sample_ID,42,1
+Sample_ID,43,1
+Sample_ID,44,1
+Sample_ID,45,1
+Sample_ID,46,1
+Sample_ID,47,1
+Sample_ID,48,1
+Sample_ID,49,1
+Sample_ID,50,1
+Sample_ID,51,1
+Sample_ID,52,1
+Sample_ID,53,1
+Sample_ID,54,1
+Sample_ID,55,1
+Sample_ID,56,1
+Sample_ID,57,1
+Sample_ID,58,1
+Sample_ID,59,1
+Sample_ID,60,1
+Sample_ID,61,1
+Sample_ID,62,1
+Sample_ID,63,1
+Sample_ID,64,1
+Target_Label,Adulterated,33
+Target_Label,Genuine,22
+Target_Label,Sunset Yellow,1
+Target_Label,Orange 2,1
+Target_Label,Amaranth,1
+Target_Label,Azorubine,1
+Target_Label,Quinoline Yellow,1
+Target_Label,Ponceau 4R,1
+Target_Label,Erythrosine,1
+Target_Label,Orange GGN,1
+Target_Label,Tartrazine,1
+Adulterant_Type,<MISSING>,31
+Adulterant_Type,Saffron+Tartrazine,5
+Adulterant_Type,Unknown,2
+Adulterant_Type,Saffron+Orange 2,2
+Adulterant_Type,Saffron+Tartrazine+Quinoline Yellow+Orange 2,2
+Adulterant_Type,Saffron+Orange GGN,2
+Adulterant_Type,Saffron+Erythrosine+Tartrazine,1
+Adulterant_Type,Saffron+Tartrazine+Quinoline Yellow,1
+Adulterant_Type,Saffron+Tartrazine+Orange 2,1
+Adulterant_Type,Saffron+Tartrazine+Orange GGN,1
+Adulterant_Type,Saffron+Tartrazine+Ponceau 4R,1
+Adulterant_Type,Saffron+Erythrosine+Quinoline Yellow,1
+Adulterant_Type,Saffron+Erythrosine+Orange GGN,1
+Adulterant_Type,Saffron+Tartrazine+Amaranth,1
+Adulterant_Type,Saffron+Tartrazine+Azorubine,1
+Adulterant_Type,Saffron+Tartrazine+Sunset Yellow,1
+Adulterant_Type,Saffron+Azorubine+Quinoline Yellow,1
+Adulterant_Type,Saffron+Erythrosine+Ponceau 4R,1
+Adulterant_Type,Saffron+Sunset Yellow+Orange GGN,1
+Adulterant_Type,Saffron+Orange 2+Azorubine,1
+Adulterant_Type,Saffron+Sunset Yellow,1
+Adulterant_Type,Saffron+Amaranth,1
+Adulterant_Type,Saffron+Azorubine,1
+Adulterant_Type,Saffron+Quinoline Yellow,1
+Adulterant_Type,Saffron+Ponceau 4R,1
+Adulterant_Type,Saffron+Erythrosine,1
+Dataset_Role,Train,44
+Dataset_Role,Test,11
+Dataset_Role,Reference,9

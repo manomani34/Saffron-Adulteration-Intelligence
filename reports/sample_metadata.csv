@@ -1,0 +1,65 @@
+﻿Sample_ID,Target_Label,Adulterant_Type,Dataset_Role
+1,Genuine,,Train
+2,Genuine,,Train
+3,Genuine,,Train
+4,Genuine,,Train
+5,Genuine,,Train
+6,Genuine,,Train
+7,Genuine,,Train
+8,Genuine,,Train
+9,Genuine,,Train
+10,Genuine,,Train
+11,Genuine,,Train
+12,Genuine,,Train
+13,Genuine,,Train
+14,Genuine,,Train
+15,Genuine,,Train
+16,Genuine,,Train
+17,Genuine,,Train
+18,Genuine,,Train
+19,Genuine,,Train
+20,Genuine,,Train
+21,Adulterated,Saffron+Erythrosine+Tartrazine,Train
+22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,Train
+23,Adulterated,Saffron+Tartrazine+Orange 2,Train
+24,Adulterated,Saffron+Tartrazine+Orange GGN,Train
+25,Adulterated,Saffron+Tartrazine+Ponceau 4R,Train
+26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,Train
+27,Adulterated,Saffron+Erythrosine+Orange GGN,Train
+28,Adulterated,Saffron+Tartrazine+Amaranth,Train
+29,Adulterated,Saffron+Tartrazine+Azorubine,Train
+30,Adulterated,Saffron+Tartrazine+Sunset Yellow,Train
+31,Adulterated,Saffron+Azorubine+Quinoline Yellow,Train
+32,Adulterated,Saffron+Erythrosine+Ponceau 4R,Train
+33,Adulterated,Saffron+Sunset Yellow+Orange GGN,Train
+34,Adulterated,Unknown,Test
+35,Adulterated,Unknown,Test
+36,Genuine,,Test
+37,Adulterated,Saffron+Orange 2+Azorubine,Test
+38,Adulterated,Saffron+Orange 2,Test
+39,Adulterated,Saffron+Tartrazine,Test
+40,Adulterated,Saffron+Tartrazine,Test
+41,Adulterated,Saffron+Tartrazine,Test
+42,Adulterated,Saffron+Tartrazine,Test
+43,Adulterated,Saffron+Tartrazine+Quinoline Yellow+Orange 2,Test
+44,Adulterated,Saffron+Tartrazine+Quinoline Yellow+Orange 2,Test
+45,Sunset Yellow,,Reference
+46,Orange 2,,Reference
+47,Amaranth,,Reference
+48,Azorubine,,Reference
+49,Quinoline Yellow,,Reference
+50,Ponceau 4R,,Reference
+51,Erythrosine,,Reference
+52,Orange GGN,,Reference
+53,Tartrazine,,Reference
+54,Adulterated,Saffron+Sunset Yellow,Train
+55,Adulterated,Saffron+Amaranth,Train
+56,Adulterated,Saffron+Azorubine,Train
+57,Adulterated,Saffron+Tartrazine,Train
+58,Adulterated,Saffron+Orange GGN,Train
+59,Adulterated,Saffron+Quinoline Yellow,Train
+60,Adulterated,Saffron+Orange 2,Train
+61,Adulterated,Saffron+Ponceau 4R,Train
+62,Adulterated,Saffron+Erythrosine,Train
+63,Adulterated,Saffron+Orange GGN,Train
+64,Genuine,,Train
