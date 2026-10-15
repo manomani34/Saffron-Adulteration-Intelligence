@@ -1,0 +1,37 @@
+{
+  "synthetic": {
+    "file": "SYNTHETIC_spectra.csv",
+    "spectral_variables": 9617,
+    "ppm_min": 0.500998,
+    "ppm_max": 10.4999,
+    "median_step": 0.0009999999999998899,
+    "minimum_step": 0.0009699999999988052,
+    "maximum_step": 0.38398999999999983,
+    "strictly_increasing": true,
+    "gaps_over_0_0015_ppm": [
+      {
+        "left_ppm": 4.66697,
+        "right_ppm": 5.05096,
+        "step_ppm": 0.38398999999999983
+      }
+    ]
+  },
+  "existing": {
+    "file": "total-color-data.csv",
+    "spectral_variables": 5195,
+    "ppm_min": 6.51204,
+    "ppm_max": 8.48857,
+    "median_step": 0.0003799999999998249,
+    "minimum_step": 0.0003799999999998249,
+    "maximum_step": 0.0003900000000012227,
+    "strictly_increasing": true,
+    "gaps_over_0_0015_ppm": []
+  },
+  "comparison": {
+    "common_ppm_min": 6.51204,
+    "common_ppm_max": 8.48857,
+    "same_minimum_ppm": false,
+    "same_maximum_ppm": false,
+    "same_number_of_spectral_variables": false
+  }
+}

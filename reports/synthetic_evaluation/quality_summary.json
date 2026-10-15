@@ -1,0 +1,31 @@
+{
+  "input_file": "D:\\Saffron-Adulteration-Intelligence\\data\\raw\\SYNTHETIC_spectra.csv",
+  "input_sha256_before": "3be9ec8270d5b037d6b8835abc7be61929ce679609b31050b20f944497ce1d68",
+  "sample_count": 513,
+  "column_count": 9618,
+  "spectral_variable_count": 9617,
+  "unique_sample_id_count": 513,
+  "missing_sample_id_count": 0,
+  "duplicate_id_rows": 0,
+  "missing_spectral_value_count": 0,
+  "nonfinite_spectral_value_count": 0,
+  "constant_spectral_variable_count": 0,
+  "exact_duplicate_spectrum_rows": 0,
+  "ppm_min": 0.500998,
+  "ppm_max": 10.4999,
+  "ppm_median_step": 0.0009999999999998899,
+  "ppm_min_step": 0.0009699999999988052,
+  "ppm_max_step": 0.38398999999999983,
+  "ppm_strictly_increasing": true,
+  "ppm_gap_count_above_0_0015": 1,
+  "intensity_statistics": {
+    "minimum": -28.778328,
+    "p01": -0.93647224,
+    "median": 0.70477799,
+    "p99": 90.70623559999973,
+    "maximum": 1937.201,
+    "negative_value_count": 468647,
+    "zero_value_count": 0
+  },
+  "interpretation_limit": "Unlabeled synthetic spectra: this QC does not assess dye-class accuracy."
+}

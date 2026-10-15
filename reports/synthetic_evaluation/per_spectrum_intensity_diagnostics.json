@@ -1,0 +1,27 @@
+{
+  "synthetic_file": "D:\\Saffron-Adulteration-Intelligence\\reports\\synthetic_evaluation\\synthetic_spectra_aligned_to_real_axis.csv",
+  "real_file": "D:\\Saffron-Adulteration-Intelligence\\data\\raw\\total-color-data.csv",
+  "synthetic_samples": 513,
+  "real_samples": 63,
+  "synthetic_spectral_points": 5195,
+  "real_spectral_points": 5195,
+  "samples_by_group": {
+    "Synthetic": 513,
+    "Train": 43,
+    "Test": 11,
+    "Reference": 9
+  },
+  "metrics_csv": "D:\\Saffron-Adulteration-Intelligence\\reports\\synthetic_evaluation\\per_spectrum_intensity_metrics.csv",
+  "summary_csv": "D:\\Saffron-Adulteration-Intelligence\\reports\\synthetic_evaluation\\per_spectrum_intensity_summary.csv",
+  "plots": [
+    "D:\\Saffron-Adulteration-Intelligence\\reports\\synthetic_evaluation\\distribution_median.png",
+    "D:\\Saffron-Adulteration-Intelligence\\reports\\synthetic_evaluation\\distribution_p95.png",
+    "D:\\Saffron-Adulteration-Intelligence\\reports\\synthetic_evaluation\\distribution_maximum.png",
+    "D:\\Saffron-Adulteration-Intelligence\\reports\\synthetic_evaluation\\distribution_negativefraction.png"
+  ],
+  "notes": [
+    "Descriptive intensity comparison only; not model performance.",
+    "No normalization, baseline correction, clipping, or other transformation applied.",
+    "Negative intensity values retained."
+  ]
+}

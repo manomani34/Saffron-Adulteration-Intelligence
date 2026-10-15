@@ -1,0 +1,56 @@
+{
+  "synthetic": {
+    "file": "D:\\Saffron-Adulteration-Intelligence\\data\\raw\\SYNTHETIC_spectra.csv",
+    "rows": 513,
+    "total_columns": 9618,
+    "spectral_columns": 9617,
+    "invalid_axis_columns": 0,
+    "axis": {
+      "minimum_ppm": 0.500998,
+      "maximum_ppm": 10.4999,
+      "strictly_ascending": true,
+      "strictly_descending": false,
+      "unique_points": 9617,
+      "duplicate_points": 0,
+      "non_finite_steps": 0,
+      "minimum_step_ppm": 0.0009699999999988052,
+      "median_absolute_step_ppm": 0.0009999999999998899,
+      "maximum_step_ppm": 0.38398999999999983
+    },
+    "intensity": {
+      "numeric_finite_values": 4933521,
+      "non_finite_or_missing_values": 0,
+      "negative_values": 468647,
+      "minimum": -28.778328,
+      "maximum": 1937.201,
+      "median": 0.70477799
+    }
+  },
+  "existing": {
+    "file": "D:\\Saffron-Adulteration-Intelligence\\data\\raw\\total-color-data.csv",
+    "rows": 63,
+    "total_columns": 5199,
+    "spectral_columns": 5195,
+    "invalid_axis_columns": 0,
+    "axis": {
+      "minimum_ppm": 6.51204,
+      "maximum_ppm": 8.48857,
+      "strictly_ascending": true,
+      "strictly_descending": false,
+      "unique_points": 5195,
+      "duplicate_points": 0,
+      "non_finite_steps": 0,
+      "minimum_step_ppm": 0.0003799999999998249,
+      "median_absolute_step_ppm": 0.0003799999999998249,
+      "maximum_step_ppm": 0.0003900000000012227
+    },
+    "intensity": {
+      "numeric_finite_values": 327285,
+      "non_finite_or_missing_values": 0,
+      "negative_values": 65064,
+      "minimum": -4.30857,
+      "maximum": 352.649,
+      "median": 0.161613
+    }
+  }
+}

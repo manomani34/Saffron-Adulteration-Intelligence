@@ -1,0 +1,64 @@
+﻿Sample_ID,Target_Label,Adulterant_Type,Dataset_Role
+1,Genuine,<MISSING>,Train
+2,Genuine,<MISSING>,Train
+3,Genuine,<MISSING>,Train
+4,Genuine,<MISSING>,Train
+5,Genuine,<MISSING>,Train
+6,Genuine,<MISSING>,Train
+7,Genuine,<MISSING>,Train
+8,Genuine,<MISSING>,Train
+9,Genuine,<MISSING>,Train
+10,Genuine,<MISSING>,Train
+11,Genuine,<MISSING>,Train
+12,Genuine,<MISSING>,Train
+13,Genuine,<MISSING>,Train
+14,Genuine,<MISSING>,Train
+15,Genuine,<MISSING>,Train
+16,Genuine,<MISSING>,Train
+17,Genuine,<MISSING>,Train
+18,Genuine,<MISSING>,Train
+19,Genuine,<MISSING>,Train
+20,Genuine,<MISSING>,Train
+21,Adulterated,Saffron+Erythrosine+Tartrazine,Train
+22,Adulterated,Saffron+Tartrazine+Quinoline Yellow,Train
+23,Adulterated,Saffron+Tartrazine+Orange 2,Train
+24,Adulterated,Saffron+Tartrazine+Orange GGN,Train
+25,Adulterated,Saffron+Tartrazine+Ponceau 4R,Train
+26,Adulterated,Saffron+Erythrosine+Quinoline Yellow,Train
+27,Adulterated,Saffron+Erythrosine+Orange GGN,Train
+28,Adulterated,Saffron+Tartrazine+Amaranth,Train
+29,Adulterated,Saffron+Tartrazine+Azorubine,Train
+30,Adulterated,Saffron+Tartrazine+Sunset Yellow,Train
+31,Adulterated,Saffron+Azorubine+Quinoline Yellow,Train
+32,Adulterated,Saffron+Erythrosine+Ponceau 4R,Train
+33,Adulterated,Saffron+Sunset Yellow+Orange GGN,Train
+34,Adulterated,Unknown,Test
+35,Adulterated,Unknown,Test
+36,Genuine,<MISSING>,Test
+37,Adulterated,Saffron+Orange 2+Azorubine,Test
+38,Adulterated,Saffron+Orange 2,Test
+39,Adulterated,Saffron+Tartrazine,Test
+40,Adulterated,Saffron+Tartrazine,Test
+41,Adulterated,Saffron+Tartrazine,Test
+42,Adulterated,Saffron+Tartrazine,Test
+43,Adulterated,Saffron+Tartrazine+Quinoline Yellow+Orange 2,Test
+44,Adulterated,Saffron+Tartrazine+Quinoline Yellow+Orange 2,Test
+45,Sunset Yellow,<MISSING>,Reference
+46,Orange 2,<MISSING>,Reference
+47,Amaranth,<MISSING>,Reference
+48,Azorubine,<MISSING>,Reference
+49,Quinoline Yellow,<MISSING>,Reference
+50,Ponceau 4R,<MISSING>,Reference
+51,Erythrosine,<MISSING>,Reference
+52,Orange GGN,<MISSING>,Reference
+53,Tartrazine,<MISSING>,Reference
+54,Adulterated,Saffron+Sunset Yellow,Train
+55,Adulterated,Saffron+Amaranth,Train
+56,Adulterated,Saffron+Azorubine,Train
+57,Adulterated,Saffron+Tartrazine,Train
+58,Adulterated,Saffron+Orange GGN,Train
+59,Adulterated,Saffron+Quinoline Yellow,Train
+60,Adulterated,Saffron+Orange 2,Train
+61,Adulterated,Saffron+Ponceau 4R,Train
+62,Adulterated,Saffron+Erythrosine,Train
+64,Genuine,<MISSING>,Train

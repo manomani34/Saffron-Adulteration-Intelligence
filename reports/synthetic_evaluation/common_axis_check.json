@@ -1,0 +1,16 @@
+{
+  "common_range_ppm": [
+    6.51204,
+    8.48857
+  ],
+  "synthetic_points_in_common_range": 1976,
+  "existing_points_in_common_range": 5195,
+  "existing_points_with_synthetic_point_within_0_0001_ppm": 1067,
+  "existing_points_with_synthetic_point_within_0_0002_ppm": 2086,
+  "nearest_axis_distance_ppm": {
+    "median": 0.00025000000000030553,
+    "p95": 0.0004700000000017468,
+    "maximum": 0.0005000000000006111
+  },
+  "synthetic_gaps_in_common_range": []
+}
